@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    font-family: "Space Mono", monospace;
+    text-shadow: 1px 1px 2px pink, 0 0 25px #D81E5B, 0 0 5px #D81E5B;
+    font-size: 46px;
+  }
+  
+  h2 {
+    color: #800040
+  }
+  
+  body {
+    font-family: "Noto Sans", sans-serif;
+    font-size: 16px;
+    background-image: linear-gradient(to bottom right, #f9b3d1, #d81e5b);
+    background-repeat: no-repeat;
+    color: #fefbea;
+    text-align: left;
+    margin: 0 auto;
+    max-width: 60em;
+  }
+  p {
+    color: #fefbea;
+  }
+  li {
+    line-height: 1.5;
+  }
